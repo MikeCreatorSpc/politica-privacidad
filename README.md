@@ -14,6 +14,7 @@
 - Las publicaciones temporales se eliminan automáticamente pasadas 24 horas (junto con sus fotos y comentarios).
 - Las publicaciones marcadas como rescatadas se eliminan automáticamente pasada 1 hora.
 - Puedes editar o eliminar cualquiera de tus publicaciones en cualquier momento desde tu perfil.
+- En las publicaciones fijas, las solicitudes de recogida y los mensajes del chat privado se utilizan únicamente para coordinar la entrega gratuita del objeto y se eliminan automáticamente en cuanto la publicación se entrega o se borra.
 
 ## 3. Eliminación de cuenta y datos
 Puedes eliminar tu cuenta y todos tus datos asociados en cualquier momento desde dentro de la aplicación: abre la pestaña **Perfil → Eliminar cuenta**. Al confirmar, se borran tus publicaciones activas, tus imágenes en Firebase Storage, tu perfil en Firestore y tu cuenta de autenticación.
